@@ -16,7 +16,6 @@ Do patients that express one or more of these biomarkers have better, or worse, 
 On this study, we sought to explore some way to forecast the chance that a specific customer, who want to apply for a specific bank product, will default on his/her payments. That said, trying to estimate the probability of default. Give some application to estimate the credit-worthiness of a customer.
 
 ### - Financial Data:
-
 We analyse three major stocks indices, Dow Jones, DAX and Nikkei in relation to the exchange rate between US Dolar, Euro and Yen.
 Research Questions: 
 				how large was the impact of the recent financial crisis on the stock markets?;
