@@ -2,6 +2,8 @@
 This repository contains the weekly work exercises for data science.
 You can find totally available source [here:](https://therbootcamp.github.io/)
 ![](https://i.pinimg.com/originals/91/d4/a0/91d4a0d69c1377daea08f53751faa349.jpg)
+
+
 Script List:
 
 **Study1:**
