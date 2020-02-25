@@ -9,7 +9,7 @@ You can find totally available source [here:](https://therbootcamp.github.io/)
 
 Practical cases:
 
-### - Biomakers:
+### - [Biomakers](https://github.com/carlosug/ranalytics/blob/master/src/biomakers.R):
 Do patients that express one or more of these biomarkers have better, or worse, outcomes that those that do not express these biomarkers?
 
 ### - Forecasting credit default probability:
